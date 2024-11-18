@@ -61,3 +61,5 @@ Navigate to project directory.
 Run 
 
 `docker run  --name [ container_name ]  [docker _image]` . 
+
+
